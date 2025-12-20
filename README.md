@@ -1,4 +1,4 @@
-# Job Tracker Django
+hi # Job Tracker Django
 A Django web application to manage and track job applications. It allows users to add, edit, and view job applications with a simple and fancy design.
 ## Features
 - Add new job applications.
